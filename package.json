@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://taylorhakes@github.com/taylorhakes/promise-mock.git"
+    "url": "https://scamden@github.com/scamden/promise-mock.git"
   },
   "author": "Taylor Hakes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/taylorhakes/promise-mock/issues"
+    "url": "https://github.com/scamden/promise-mock/issues"
   },
-  "homepage": "https://github.com/taylorhakes/promise-mock",
+  "homepage": "https://github.com/scamden/promise-mock",
   "devDependencies": {
     "jasmine": "^2.3.1"
   },
