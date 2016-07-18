@@ -6,6 +6,9 @@
   "scripts": {
     "test": "JASMINE_CONFIG_PATH=jasmine.json ./node_modules/jasmine/bin/jasmine.js;"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "https://scamden@github.com/scamden/promise-mock.git"
