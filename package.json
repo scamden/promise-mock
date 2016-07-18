@@ -1,5 +1,5 @@
 {
-  "name": "promise-mock",
+  "name": "promise-mock-that-works",
   "version": "1.0.0",
   "description": "Promise mock library for synchronous Promise testing",
   "main": "index.js",
